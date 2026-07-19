@@ -128,5 +128,6 @@ Below are some screenshots of the DeepDoc interface:
 
 ## Author
 
-Developed by Amartya Pawar (spiralMonster)
+Developed by Arjun Mukhraiya 
+
 
